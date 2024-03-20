@@ -1,0 +1,46 @@
+name: fireflut
+description: "A new Flutter project."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  #for integrating firebase
+  firebase_core: ^2.26.0
+  firebase_auth: ^4.17.8
+  google_sign_in: ^6.2.1
+  cloud_firestore: ^4.15.8
+  cached_network_image: ^3.3.1
+  image_picker: ^0.8.6
+  firebase_storage: ^11.6.10
+  http: ^1.2.1
+  firebase_messaging: ^14.7.20
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: "^0.13.1"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/app_logo.png
+    - images/google.png
+    - images/firebase_logo.png
+    - images/flutter_logo.png
+    - images/FF.png
+    - images/FFchat.png
+    - images/Vishnu.png
+    - images/add_image.png
+    - images/camera.png
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "images/app_logo.png"
+  min_sdk_android: 21

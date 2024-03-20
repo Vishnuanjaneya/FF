@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "87953477310",
+    "firebase_url": "https://fireflut-ad6e0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fireflut-ad6e0",
+    "storage_bucket": "fireflut-ad6e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87953477310:android:d709f80a321da82bcd58ef",
+        "android_client_info": {
+          "package_name": "com.example.fireflut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87953477310-dfkb3kfkt5sehordto4ht0946afq36kf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fireflut",
+            "certificate_hash": "2daad3a8824619a96653e103720bb61411b9d4a2"
+          }
+        },
+        {
+          "client_id": "87953477310-voerou7s420qa6o7q2i4t7kop0qqp7ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmknRxPm7QFa-HLeVNhQXl8saxE_KM5_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87953477310-voerou7s420qa6o7q2i4t7kop0qqp7ov.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "87953477310-gsrhlbns12j3d7mj4m0p09qcc0683cfs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fireflut"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
